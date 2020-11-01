@@ -15,7 +15,7 @@
 ## Результаты
 
 1. Тест был не успешный
-2. https://github.com/IraRogova/Money-Transfer/issues/1
+2. [issues1](https://github.com/IraRogova/Money-Transfer/issues/1)
 
 ## Общие рекомендации
 
